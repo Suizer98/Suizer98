@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 ## Tech stacks
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=ts,js,python,css,html,matlab,c,cpp,matlab,octave,r,go)
+![Languages](https://skillicons.dev/icons?i=ts,js,python,css,html,matlab,c,cpp,octave,r,go)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,npm,yarn,qt)
@@ -20,7 +20,7 @@ Welcome to my GitHub profile!
 ![Unit Testing Technologies](https://skillicons.dev/icons?i=vitest,jest)
 
 #### DevOps Technologies
-![DevOps Technologies](https://skillicons.dev/icons?i=docker,azure,gitlab,githubactions,ansible,nginx)
+![DevOps Technologies](https://skillicons.dev/icons?i=docker,azure,gitlab,githubactions,ansible,nginx,gcp)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite)
@@ -29,7 +29,7 @@ Welcome to my GitHub profile!
 ![Database & Tools](https://skillicons.dev/icons?i=redhat,windows,ubuntu,linux,bash,powershell)
 
 #### Other software engineering tools
-![Others](https://skillicons.dev/icons?i=git,github,netlify,vercel,heroku,vscode,sublime,anaconda,vim,cmake)
+![Others](https://skillicons.dev/icons?i=git,github,netlify,vercel,heroku,vscode,sublime,anaconda,vim,cmake,notion)
 
 #### Geomatics & GIS tools
 ![Others](https://skillicons.dev/icons?i=autocad,sketchup)
