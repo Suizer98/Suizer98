@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I am Sui Zer! 👋
 
-<!--
-**Suizer98/Suizer98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/teysuizer1998)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stacks
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=ts,js,python,css,html,matlab,go,c,cpp,matlab,octave,r,go)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=react,nextjs,next,tailwind)
+
+#### Backend Technologies
+[![Backend Technologies](https://skillicons.dev/icons?i=django,flask,fastapi,redis)
+
+#### DevOps Technologies
+![Database & Tools](https://skillicons.dev/icons?i=docker,azure,gitlab,githubactions)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite)
+
+#### Administrations
+![Database & Tools](https://skillicons.dev/icons?i=redhat,windows,linux)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,netlify,vercel,vscode,sublime,github)
