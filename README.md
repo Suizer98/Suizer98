@@ -11,10 +11,10 @@ Welcome to my GitHub profile!
 ![Languages](https://skillicons.dev/icons?i=ts,js,python,css,html,matlab,go,c,cpp,matlab,octave,r,go)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,nextjs,next,tailwind,vite)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite)
 
 #### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=django,flask,fastapi,redis)
+![Backend Technologies](https://skillicons.dev/icons?i=django,flask,fastapi,redis,prisma)
 
 #### DevOps Technologies
 ![Database & Tools](https://skillicons.dev/icons?i=docker,azure,gitlab,githubactions)
@@ -23,7 +23,7 @@ Welcome to my GitHub profile!
 ![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite)
 
 #### Administrations
-![Database & Tools](https://skillicons.dev/icons?i=redhat,windows,linux)
+![Database & Tools](https://skillicons.dev/icons?i=redhat,windows,linux,bash,powershell)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,netlify,vercel,vscode,sublime,github)
+![Others](https://skillicons.dev/icons?i=git,github,netlify,vercel,vscode,sublime,cmake,)
