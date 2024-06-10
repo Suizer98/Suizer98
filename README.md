@@ -8,22 +8,28 @@ Welcome to my GitHub profile!
 ## Tech stacks
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=ts,js,python,css,html,matlab,go,c,cpp,matlab,octave,r,go)
+![Languages](https://skillicons.dev/icons?i=ts,js,python,css,html,matlab,c,cpp,matlab,octave,r,go)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,npm,yarn,qt)
 
 #### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=django,flask,fastapi,redis,prisma)
+![Backend Technologies](https://skillicons.dev/icons?i=django,flask,fastapi,redis,prisma,selenium)
+
+#### Unit Testing Technologies
+![Unit Testing Technologies](https://skillicons.dev/icons?i=vitest,jest)
 
 #### DevOps Technologies
-![Database & Tools](https://skillicons.dev/icons?i=docker,azure,gitlab,githubactions)
+![DevOps Technologies](https://skillicons.dev/icons?i=docker,azure,gitlab,githubactions,ansible,nginx)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite)
 
 #### Administrations
-![Database & Tools](https://skillicons.dev/icons?i=redhat,windows,linux,bash,powershell)
+![Database & Tools](https://skillicons.dev/icons?i=redhat,windows,ubuntu,linux,bash,powershell)
 
-#### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,netlify,vercel,vscode,sublime,cmake,)
+#### Other software engineering tools
+![Others](https://skillicons.dev/icons?i=git,github,netlify,vercel,heroku,vscode,sublime,anaconda,vim,cmake)
+
+#### Geomatics & GIS tools
+![Others](https://skillicons.dev/icons?i=autocad,sketchup)
