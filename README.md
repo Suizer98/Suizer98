@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I am a software engineer dedicated and passionate to full stack GIS web developments.
+I am a software engineer dedicated and passionate to full stack GIS web developments. Also keen to involve in any geomatics engineering researches.
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/teysuizer1998)
@@ -10,7 +10,7 @@ I am a software engineer dedicated and passionate to full stack GIS web developm
 ## Tech stacks
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=ts,js,python,css,html,matlab,c,cpp,octave,r,go)
+![Languages](https://skillicons.dev/icons?i=ts,js,python,css,html,matlab,octave,r,cpp,c,go)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,npm,yarn,qt)
@@ -31,7 +31,7 @@ I am a software engineer dedicated and passionate to full stack GIS web developm
 ![Database & Tools](https://skillicons.dev/icons?i=redhat,windows,ubuntu,linux,bash,powershell)
 
 #### Other software engineering tools
-![Others](https://skillicons.dev/icons?i=git,github,netlify,vercel,heroku,vscode,sublime,anaconda,vim,cmake,notion)
+![Others](https://skillicons.dev/icons?i=git,github,netlify,vercel,heroku,anaconda,vscode,sublime,vim,visualstudio,cmake,postman,opencv,notion)
 
 #### Geomatics & GIS tools
 ![Others](https://skillicons.dev/icons?i=autocad,sketchup)
