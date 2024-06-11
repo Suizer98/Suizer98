@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile!
 
+I am a software engineer dedicated and passionate to full stack GIS web developments.
+
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/teysuizer1998)
 
