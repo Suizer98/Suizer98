@@ -4,9 +4,6 @@ Welcome to my GitHub profile!
 
 I am a software engineer dedicated and passionate to full stack GIS web developments. Also keen to involve in any geomatics engineering researches.
 
-## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/teysuizer1998)
-
 ## Tech stacks
 
 #### Programming Languages
