@@ -4,6 +4,9 @@ Welcome to my GitHub profile!
 
 I am a software engineer dedicated and passionate to full stack GIS web developments. Also keen to involve in any geomatics engineering researches.
 
+## GitHub Stats
+![Suizer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suizer98&show_icons=true&theme=vue-dark)
+
 ## Tech stacks
 
 #### Programming Languages
