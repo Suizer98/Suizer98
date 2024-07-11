@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 I am a software engineer dedicated and passionate to full stack GIS web developments. Also keen to involve in any geomatics engineering researches.
 
 :smirk_cat: 
-Visit my personal portfolio for more [details](https://suizer98.github.io/portfolio/)!
+Visit my personal portfolio for more <a href="https://suizer98.github.io/portfolio/" target="_blank">details</a>!
 
 ## GitHub Stats
 ![Suizer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suizer98&show_icons=true&theme=vue-dark)
