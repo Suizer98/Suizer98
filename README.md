@@ -33,7 +33,7 @@ Visit my personal portfolio for more <a href="https://suizer98.github.io/portfol
 ![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite)
 
 #### Administrations
-![Database & Tools](https://skillicons.dev/icons?i=redhat,windows,ubuntu,linux,bash,powershell)
+![Database & Tools](https://skillicons.dev/icons?i=redhat,windows,ubuntu,apple,linux,bash,powershell)
 
 #### Other software engineering tools
 ![Others](https://skillicons.dev/icons?i=git,github,netlify,vercel,heroku,anaconda,vscode,sublime,vim,visualstudio,cmake,postman,opencv,notion)
