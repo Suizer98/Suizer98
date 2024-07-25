@@ -18,7 +18,7 @@ Visit my personal portfolio for more <a href="https://suizer98.github.io/portfol
 ![Languages](https://skillicons.dev/icons?i=ts,js,python,css,html,matlab,octave,r,cpp,c,go)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,npm,yarn,qt)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,npm,yarn,qt,svg)
 
 #### Backend Technologies
 ![Backend Technologies](https://skillicons.dev/icons?i=django,flask,fastapi,redis,prisma,selenium)
@@ -36,7 +36,7 @@ Visit my personal portfolio for more <a href="https://suizer98.github.io/portfol
 ![Database & Tools](https://skillicons.dev/icons?i=redhat,windows,ubuntu,apple,linux,bash,powershell)
 
 #### Other software engineering tools
-![Others](https://skillicons.dev/icons?i=git,github,netlify,vercel,heroku,anaconda,vscode,sublime,vim,visualstudio,cmake,postman,opencv,notion)
+![Others](https://skillicons.dev/icons?i=git,github,netlify,vercel,heroku,anaconda,vscode,sublime,pycharm,vim,visualstudio,cmake,postman,md,opencv,notion)
 
 #### Geomatics & GIS tools
 ![Others](https://skillicons.dev/icons?i=autocad,sketchup)
