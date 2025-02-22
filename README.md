@@ -21,12 +21,12 @@ Visit my personal portfolio for more <a href="https://suizer98.github.io/portfol
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,npm,yarn,qt,svg)
 
 #### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=django,flask,fastapi,redis,prisma,selenium,dotnet)
+![Backend Technologies](https://skillicons.dev/icons?i=django,flask,fastapi,redis,prisma,selenium,dotnet,nginx)
 
 #### Unit Testing Technologies
 ![Unit Testing Technologies](https://skillicons.dev/icons?i=vitest,jest)
 
-#### DevOps Technologies
+#### DevOps and Cloud Technologies
 ![DevOps Technologies](https://skillicons.dev/icons?i=docker,azure,gitlab,githubactions,ansible,nginx,gcp)
 
 #### Database & Tools
