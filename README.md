@@ -39,7 +39,7 @@ Visit my personal portfolio for more <a href="https://suizer98.github.io/portfol
 ![IDE](https://skillicons.dev/icons?i=vscode,sublime,pycharm,vim,visualstudio)
 
 #### Other software engineering tools
-![Others](https://skillicons.dev/icons?i=git,github,netlify,vercel,heroku,anaconda,cmake,postman,md,opencv,notion)
+![Others](https://skillicons.dev/icons?i=git,github,netlify,vercel,heroku,anaconda,cmake,postman,md,notion)
 
 #### Geomatics & GIS tools
 ![Others](https://skillicons.dev/icons?i=autocad,sketchup)
