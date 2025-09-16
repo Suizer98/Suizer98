@@ -4,7 +4,7 @@
 Welcome to my GitHub profile!
 
 :computer:
-I am a software engineer dedicated and passionate about full-stack web development, with a strong internship and academic background in GIS & geomatics engineering. This cross-disciplinary expertise enables me to excel in both domains, from collecting GIS data and processing it to developing innovative software solutions tailored to meet spatial data needs. My knowledeges and skills allow me to bridge the gap between geomatics engineering and gis software development.
+I am a software engineer dedicated and passionate about full-stack web development, with a strong background in GIS & geomatics engineering. This cross-disciplinary expertise enables me to excel in both domains, from collecting GIS data and processing it to developing innovative software solutions tailored to meet spatial data needs. My knowledeges and skills allow me to bridge the gap between geomatics engineering and gis software development.
 
 :smirk_cat: 
 Visit my personal portfolio for more <a href="https://suizer98.github.io/portfolio/" target="_blank">details</a>!
