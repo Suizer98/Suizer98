@@ -1,13 +1,10 @@
 # Hi, I am Sui Zer! 👋
 
-:sunglasses:
-Welcome to my GitHub profile!
-
 :computer:
-I am a software engineer dedicated and passionate about full-stack web development, with a strong background in GIS & geomatics engineering. This cross-disciplinary expertise enables me to excel in both domains, from collecting GIS data and processing it to developing innovative software solutions tailored to meet spatial data needs. My knowledges and skills allow me to bridge the gap between geomatics engineering and gis software development.
+My cross-disciplinary expertises enables me to excel in both domains, from collecting GIS data and processing it to developing innovative software solutions tailored to meet spatial data needs. My knowledges and skills allow me to bridge the gap between geomatics engineering and gis software development.
 
 :smirk_cat: 
-Visit my personal portfolio for more <a href="https://suizer98.github.io/portfolio/" target="_blank">details</a>!
+<a href="https://suizer98.github.io/portfolio/" target="_blank">Portfolio</a>
 
 ## GitHub Stats
 ![Suizer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suizer98&show_icons=true&theme=vue-dark)
