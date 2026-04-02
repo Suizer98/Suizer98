@@ -15,7 +15,7 @@ My cross-disciplinary expertises enables me to excel in both domains, from colle
 ![Languages](https://skillicons.dev/icons?i=ts,js,python,css,html,matlab,octave,r,kotlin,cs,cpp,c,go)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,npm,yarn,qt,svg)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,svelte,nextjs,tailwind,vite,npm,yarn,qt,svg)
 
 #### Backend Technologies
 ![Backend Technologies](https://skillicons.dev/icons?i=django,flask,fastapi,redis,prisma,selenium,dotnet,nginx)
@@ -24,7 +24,7 @@ My cross-disciplinary expertises enables me to excel in both domains, from colle
 ![Unit Testing Technologies](https://skillicons.dev/icons?i=vitest,jest)
 
 #### DevOps and Cloud Technologies
-![DevOps Technologies](https://skillicons.dev/icons?i=docker,azure,gitlab,githubactions,ansible,nginx,gcp)
+![DevOps Technologies](https://skillicons.dev/icons?i=docker,azure,gitlab,githubactions,ansible,nginx,gcp,kubernetes)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite)
