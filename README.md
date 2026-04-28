@@ -8,35 +8,3 @@ My cross-disciplinary expertises enables me to excel in both domains, from colle
 
 ## GitHub Stats
 ![Suizer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suizer98&show_icons=true&theme=vue-dark)
-
-## Tech stacks
-
-#### Programming Languages
-![Languages](https://skillicons.dev/icons?i=ts,js,python,css,html,matlab,octave,r,kotlin,cs,cpp,c,go)
-
-#### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,svelte,nextjs,tailwind,vite,npm,yarn,qt,svg)
-
-#### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=django,flask,fastapi,redis,prisma,selenium,dotnet,nginx)
-
-#### Unit Testing Technologies
-![Unit Testing Technologies](https://skillicons.dev/icons?i=vitest,jest)
-
-#### DevOps and Cloud Technologies
-![DevOps Technologies](https://skillicons.dev/icons?i=docker,azure,gitlab,githubactions,ansible,nginx,gcp,kubernetes)
-
-#### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite)
-
-#### Administrations
-![Database & Tools](https://skillicons.dev/icons?i=redhat,windows,ubuntu,apple,linux,bash,powershell)
-
-#### IDE
-![IDE](https://skillicons.dev/icons?i=vscode,sublime,pycharm,vim,visualstudio)
-
-#### Other software engineering tools
-![Others](https://skillicons.dev/icons?i=git,github,netlify,vercel,heroku,anaconda,cmake,postman,md,notion)
-
-#### Geomatics & GIS tools
-![Others](https://skillicons.dev/icons?i=autocad,sketchup)
